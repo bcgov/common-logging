@@ -1,4 +1,4 @@
-# Common Logging [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+# Common Logging [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE) [![img](https://img.shields.io/badge/Lifecycle-Retired-d45500)](https://github.com/bcgov/repomountie/blob/master/doc/lifecycle-badges.md)
 
 CLOGS - A common logging API for writing logs to the hosted ELK stack service called HALPAS.
 
